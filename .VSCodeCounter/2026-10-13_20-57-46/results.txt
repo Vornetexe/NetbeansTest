@@ -1,0 +1,61 @@
+Date : 2026-10-13 20:57:46
+Directory : c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util
+Total : 32 files,  4306 codes, 1186 comments, 949 blanks, all 6441 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         32 |      4,306 |      1,186 |        949 |      6,441 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                         |         32 |      4,306 |      1,186 |        949 |      6,441 |
+| . (Files)                                                                                                                                 |         13 |      2,653 |        555 |        633 |      3,841 |
+| actions                                                                                                                                   |          6 |        798 |        163 |        165 |      1,126 |
+| datatransfer                                                                                                                              |          2 |        117 |         47 |         29 |        193 |
+| io                                                                                                                                        |          3 |         55 |         63 |         24 |        142 |
+| test                                                                                                                                      |          8 |        683 |        358 |         98 |      1,139 |
++-------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                  | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\HelpCtxNonFunctionalTest.java                   | Java     |        127 |          0 |         27 |        154 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\HelpCtxTest.java                                | Java     |         91 |          0 |         37 |        128 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\ImageUtilitiesGetLoaderTest.java                | Java     |         71 |         22 |         24 |        117 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\ImageUtilitiesTest.java                         | Java     |        420 |         69 |         68 |        557 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\MutexTest.java                                  | Java     |        720 |        180 |        229 |      1,129 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\NetworkSettingsTest.java                        | Java     |        193 |         25 |         30 |        248 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\RequestProcessorLookupGetDefaultTest.java       | Java     |         35 |         19 |          7 |         61 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\SharedClassObjectTest.java                      | Java     |        246 |         34 |         28 |        308 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\UtilitiesActionsTest.java                       | Java     |        119 |         23 |         46 |        188 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\UtilitiesFileURLConvertorTest.java              | Java     |         50 |         26 |          9 |         85 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\UtilitiesProgressCursorTest.java                | Java     |         32 |         26 |         11 |         69 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\UtilitiesTest.java                              | Java     |        414 |         54 |         62 |        530 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\UtilitiesTranslateTest.java                     | Java     |        135 |         77 |         55 |        267 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\actions\ActionsInfraHid.java                    | Java     |         64 |         25 |         15 |        104 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\actions\AsynchronousTest.java                   | Java     |         95 |         22 |         27 |        144 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\actions\BooleanStateActionTest.java             | Java     |         54 |         22 |          9 |         85 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\actions\CallbackSystemActionConcurrentTest.java | Java     |         65 |         22 |         18 |        105 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\actions\CallbackSystemActionTest.java           | Java     |        409 |         44 |         85 |        538 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\actions\SystemActionTest.java                   | Java     |        111 |         28 |         11 |        150 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\datatransfer\ExClipboardTest.java               | Java     |         66 |         22 |         17 |        105 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\datatransfer\ExTransferableTest.java            | Java     |         51 |         25 |         12 |         88 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\io\ReaderInputStreamTest.java                   | Java     |         24 |         20 |          8 |         52 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\io\SafeExceptionTest.java                       | Java     |         17 |         22 |          8 |         47 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\io\SerializationEnumTest.java                   | Java     |         14 |         21 |          8 |         43 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\JarBuilder.java                            | Java     |         56 |         37 |         12 |        105 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\MockChangeListener.java                    | Java     |         91 |         58 |         17 |        166 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\MockChangeListenerTest.java                | Java     |         92 |         19 |         11 |        122 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\MockPropertyChangeListener.java            | Java     |        117 |         68 |         18 |        203 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\MockPropertyChangeListenerTest.java        | Java     |        114 |         20 |         12 |        146 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\RestrictThreadCreation.java                | Java     |         61 |         48 |         10 |        119 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\TestFileUtils.java                         | Java     |        151 |         87 |         16 |        254 |
+| c:\ohjelmistotestproject\netbeans\platform\openide.util.ui\test\unit\src\org\openide\util\test\package-info.java                          | Java     |          1 |         21 |          2 |         24 |
+| Total                                                                                                                                     |          |      4,306 |      1,186 |        949 |      6,441 |
++-------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
